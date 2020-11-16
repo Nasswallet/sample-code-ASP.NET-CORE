@@ -33,11 +33,11 @@ namespace sample_code_ASP.NET_Core.Controllers
         public async Task<ActionResult> callAPI()
         {
      
-            const string userIdentifier = "7503491464";  //Your merchant account identifier
-            const string password = "Nass#2020";    //Your merchant account password
-            const string transactionPin = "135758";  //Your merchant account MPIN
-            const string basicToken = "TUVSQ0hBTlRfQVBQOk1lcmNoYW50QEFkbWluIzEyMw==";
-            const string headerauth = "Basic";
+            const string userIdentifier = "";  //Your merchant account identifier
+            const string password = "";    //Your merchant account password
+            const string transactionPin = "";  //Your merchant account MPIN
+            const string basicToken = "";
+            const string headerauth = "";
             
 
 
