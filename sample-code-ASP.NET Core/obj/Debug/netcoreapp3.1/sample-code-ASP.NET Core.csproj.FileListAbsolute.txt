@@ -1,0 +1,40 @@
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.exe
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.deps.json
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.runtimeconfig.json
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.runtimeconfig.dev.json
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.dll
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.pdb
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.Views.dll
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.Views.pdb
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.csprojAssemblyReference.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.AssemblyInfo.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorAssemblyInfo.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorAssemblyInfo.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\staticwebassets\sample-code-ASP.NET Core.StaticWebAssets.Manifest.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\staticwebassets\sample-code-ASP.NET Core.StaticWebAssets.xml
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\scopedcss\bundle\sample-code-ASP.NET Core.styles.css
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.TagHelpers.input.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.TagHelpers.output.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorCoreGenerate.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorTargetAssemblyInfo.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorTargetAssemblyInfo.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.Views.pdb
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.dll
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.pdb
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.genruntimeconfig.cache
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.csproj.CopyComplete
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Index.cshtml.g.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Privacy.cshtml.g.cs
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\omar\Desktop\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
