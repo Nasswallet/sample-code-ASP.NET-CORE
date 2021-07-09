@@ -12,7 +12,7 @@ namespace sample_code_ASP.NET_Core.Models
 {
     public class SampleApiCall
     {
-        private string _baseUrl = "https://uatgw.nasswallet.com";
+        private string _baseUrl = "https://uatgw1.nasswallet.com";
 
         #region Ctor
         public SampleApiCall()

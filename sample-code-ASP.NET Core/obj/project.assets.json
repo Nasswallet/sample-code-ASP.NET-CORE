@@ -5056,11 +5056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omar\\Desktop\\sample-code-ASP.NET Demo App\\sample-code-ASP.NET Core\\sample-code-ASP.NET Core.csproj",
+      "projectUniqueName": "C:\\Users\\omar\\Desktop\\local nasswallet files\\IMP\\sample codes\\sample-code-ASP.NET Demo App\\sample-code-ASP.NET Core\\sample-code-ASP.NET Core.csproj",
       "projectName": "sample-code-ASP.NET Core",
-      "projectPath": "C:\\Users\\omar\\Desktop\\sample-code-ASP.NET Demo App\\sample-code-ASP.NET Core\\sample-code-ASP.NET Core.csproj",
+      "projectPath": "C:\\Users\\omar\\Desktop\\local nasswallet files\\IMP\\sample codes\\sample-code-ASP.NET Demo App\\sample-code-ASP.NET Core\\sample-code-ASP.NET Core.csproj",
       "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omar\\Desktop\\sample-code-ASP.NET Demo App\\sample-code-ASP.NET Core\\obj\\",
+      "outputPath": "C:\\Users\\omar\\Desktop\\local nasswallet files\\IMP\\sample codes\\sample-code-ASP.NET Demo App\\sample-code-ASP.NET Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
