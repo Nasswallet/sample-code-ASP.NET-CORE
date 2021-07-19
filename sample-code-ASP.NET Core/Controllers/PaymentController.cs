@@ -33,11 +33,11 @@ namespace sample_code_ASP.NET_Core.Controllers
         public async Task<ActionResult> callAPI()
         {
      
-            const string userIdentifier = "7500077974";  //Your merchant account identifier
-            const string password = "Nass@2020";    //Your merchant account password
-            const string transactionPin = "135758";  //Your merchant account MPIN
-            const string basicToken = "TUVSQ0hBTlRfUEFZTUVOVF9HQVRFV0FZOk1lcmNoYW50R2F0ZXdheUBBZG1pbiMxMjM=";
-            const string headerauth = "Basic";
+            const string userIdentifier = "";  //Your merchant account identifier
+            const string password = "";    //Your merchant account password
+            const string transactionPin = "";  //Your merchant account MPIN
+            const string basicToken = "";
+            const string headerauth = "";
              
 
 
@@ -80,7 +80,7 @@ namespace sample_code_ASP.NET_Core.Controllers
                     dynamic transactionValues = JObject.Parse(initresponse.Data.ToString());
                     string txn_id = transactionValues.transactionId;
                     string txn_token = transactionValues.token;
-                    string urltoRedirect = "https://uatcheckout1.nasswallet.com/payment-gateway?id=" + txn_id + "&token=" + txn_token + "&userIdentifier=" + userIdentifier;
+                    string urltoRedirect = "https://checkout.nasswallet.com/payment-gateway?id=" + txn_id + "&token=" + txn_token + "&userIdentifier=" + userIdentifier;
                      return Json(urltoRedirect);
 
                 }

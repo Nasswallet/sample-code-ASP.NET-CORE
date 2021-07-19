@@ -12,7 +12,7 @@ namespace sample_code_ASP.NET_Core.Models
 {
     public class SampleApiCall
     {
-        private string _baseUrl = "https://uatgw1.nasswallet.com";
+        private string _baseUrl = "https://gw-api.nasswallet.com";
 
         #region Ctor
         public SampleApiCall()
@@ -40,7 +40,7 @@ namespace sample_code_ASP.NET_Core.Models
 
                 //Format Url
                 string url = string.Empty;
-                url = _baseUrl + "/payment/transaction/" + apiMethod;
+                url = _baseUrl + "/phase3/payment/transaction/" + apiMethod;
                             
                 //Call Api
                 HttpResponseMessage responseMessage = null;

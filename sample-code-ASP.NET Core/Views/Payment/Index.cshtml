@@ -68,7 +68,7 @@
             url: '/Payment/callAPI',
             async: true,
             success: function (response) {
-                window.open(response, '_blank', 'width=850,height=700,left=600,top=200');
+                window.open(response, '_self');
             },
             error: function (error) {
                 console.log(error);
