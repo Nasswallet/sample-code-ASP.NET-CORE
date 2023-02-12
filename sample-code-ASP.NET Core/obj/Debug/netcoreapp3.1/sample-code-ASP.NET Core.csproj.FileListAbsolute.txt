@@ -78,3 +78,48 @@ C:\Users\omar\Desktop\local nasswallet files\IMP\sample codes\sample-code-ASP.NE
 C:\Users\omar\Desktop\local nasswallet files\IMP\sample codes\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.dll
 C:\Users\omar\Desktop\local nasswallet files\IMP\sample codes\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.pdb
 C:\Users\omar\Desktop\local nasswallet files\IMP\sample codes\sample-code-ASP.NET Demo App\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.genruntimeconfig.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.StaticWebAssets.xml
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.exe
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.deps.json
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.runtimeconfig.json
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.runtimeconfig.dev.json
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.dll
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.pdb
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.Views.dll
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\sample-code-ASP.NET Core.Views.pdb
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.csproj.AssemblyReference.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.AssemblyInfo.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorAssemblyInfo.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorAssemblyInfo.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\staticwebassets\sample-code-ASP.NET Core.StaticWebAssets.Manifest.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\staticwebassets\sample-code-ASP.NET Core.StaticWebAssets.Pack.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.sample-code-ASP.NET Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.sample-code-ASP.NET Core.props
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.sample-code-ASP.NET Core.props
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.sample-code-ASP.NET Core.props
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.TagHelpers.input.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.TagHelpers.output.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorCoreGenerate.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Index.cshtml.g.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Privacy.cshtml.g.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorTargetAssemblyInfo.cache
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.RazorTargetAssemblyInfo.cs
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.Views.pdb
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.csproj.CopyComplete
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.dll
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.pdb
+C:\Users\NW0093\Source\Repos\sample-code-ASP.NET-CORE\sample-code-ASP.NET Core\obj\Debug\netcoreapp3.1\sample-code-ASP.NET Core.genruntimeconfig.cache

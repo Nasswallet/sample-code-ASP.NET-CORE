@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sample-code-ASP.NET Core.props" />
+</Project>

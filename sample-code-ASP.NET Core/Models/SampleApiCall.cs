@@ -12,7 +12,7 @@ namespace sample_code_ASP.NET_Core.Models
 {
     public class SampleApiCall
     {
-        private string _baseUrl = "https://gw-api.nasswallet.com";
+        private string _baseUrl = "https://uatgw1.nasswallet.com";
 
         #region Ctor
         public SampleApiCall()
@@ -35,22 +35,28 @@ namespace sample_code_ASP.NET_Core.Models
                 _client.BaseAddress = _baseUrlUri;
                 _client.DefaultRequestHeaders.Accept.Clear();
                 _client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-                _client.DefaultRequestHeaders.Add("Authorization", headerauth + " " + headerauthvalue);
+                _client.DefaultRequestHeaders.Add("authorization", headerauth + " " + headerauthvalue);
+                
                 _client.Timeout = TimeSpan.FromMinutes(10);
-
+ 
                 //Format Url
                 string url = string.Empty;
-                url = _baseUrl + "/phase3/payment/transaction/" + apiMethod;
-                            
+                url = _baseUrl + "/payment/transaction/" + apiMethod;
+
+                Console.WriteLine(model);
                 //Call Api
                 HttpResponseMessage responseMessage = null;
+               
                 responseMessage = await _client.PostAsJsonAsync(url, model);
+
+                Console.WriteLine(responseMessage.StatusCode);
 
                 if (responseMessage.StatusCode == HttpStatusCode.OK)
                 {
                     var responseData = responseMessage.Content.ReadAsStringAsync().Result;
                     var apiData = JsonConvert.DeserializeObject<T>(responseData);
                     return apiData;
+                    
                 }
                 else
                 {

@@ -37,7 +37,7 @@ namespace sample_code_ASP.NET_Core.Controllers
             const string password = "";    //Your merchant account password
             const string transactionPin = "";  //Your merchant account MPIN
             const string basicToken = "";
-            const string headerauth = "";
+            const string headerauth = "authorization";
              
 
 
@@ -56,8 +56,11 @@ namespace sample_code_ASP.NET_Core.Controllers
             
 
             var req = JsonConvert.SerializeObject(request);
-           
-             var response = await callApi.PostAsync<ResponseModel>("login", request, headerauth, basicToken);
+            Console.WriteLine(req);
+
+             var response = await callApi.PostAsync<ResponseModel>("login", req, headerauth, basicToken);
+
+            Console.WriteLine(response.Data);
 
             if (response.ResponseCode == 0)
             {
@@ -67,20 +70,24 @@ namespace sample_code_ASP.NET_Core.Controllers
                     {
                         userIdentifier = userIdentifier,
                         transactionPin = transactionPin,
-                        orderId = "263626",   //order ID which will be provided by the merchant.
+                        orderId = "505",   //order ID which will be provided by the merchant.
                         amount = "10",  //order amount/price will be provided by the merchant.
                         languageCode = "en",  
                     }
                 };
-                dynamic datavalues = JObject.Parse(response.Data.ToString());
+
+                 dynamic datavalues = JObject.Parse(response.Data.ToString());
+
                 string bearertoken = datavalues.access_token;
+
                 var initresponse = await callApi.PostAsync<ResponseModel>("initTransaction", initrequest, "Bearer", bearertoken);
+
                 if (initresponse.ResponseCode == 0)
                 {
                     dynamic transactionValues = JObject.Parse(initresponse.Data.ToString());
                     string txn_id = transactionValues.transactionId;
                     string txn_token = transactionValues.token;
-                    string urltoRedirect = "https://checkout.nasswallet.com/payment-gateway?id=" + txn_id + "&token=" + txn_token + "&userIdentifier=" + userIdentifier;
+                    string urltoRedirect = "https://uatcheckout1.nasswallet.com/payment-gateway?id=" + txn_id + "&token=" + txn_token + "&userIdentifier=" + userIdentifier;
                      return Json(urltoRedirect);
 
                 }
