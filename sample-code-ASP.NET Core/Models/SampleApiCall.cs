@@ -7,12 +7,15 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
 using System.Net.Http.Formatting;
+using Microsoft.AspNetCore.Components.RenderTree;
+using System.Text;
+using Newtonsoft.Json.Linq;
 
 namespace sample_code_ASP.NET_Core.Models
 {
     public class SampleApiCall
     {
-        private string _baseUrl = "https://uatgw1.nasswallet.com";
+      
 
         #region Ctor
         public SampleApiCall()
@@ -25,38 +28,36 @@ namespace sample_code_ASP.NET_Core.Models
         #region Methods
 
 
-        public async Task<T> PostAsync<T>(string apiMethod, object model, string headerauth, string headerauthvalue)
+        public async Task<T> PostAsync<T>(Uri baseAddres ,string apiMethod, object model, string headerauth, string headerauthvalue)
         {
             try
             {
-                //Create Request
-                Uri _baseUrlUri = new Uri(_baseUrl);    
+                //Create Request      
+
                 HttpClient _client = new HttpClient();
-                _client.BaseAddress = _baseUrlUri;
+                _client.BaseAddress = baseAddres;
                 _client.DefaultRequestHeaders.Accept.Clear();
                 _client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-                _client.DefaultRequestHeaders.Add("authorization", headerauth + " " + headerauthvalue);
-                
-                _client.Timeout = TimeSpan.FromMinutes(10);
- 
-                //Format Url
-                string url = string.Empty;
-                url = _baseUrl + "/payment/transaction/" + apiMethod;
+                _client.DefaultRequestHeaders.Add(headerauth,headerauthvalue);
+                _client.Timeout = TimeSpan.FromMinutes(1000);
+  
 
-                Console.WriteLine(model);
+
                 //Call Api
-                HttpResponseMessage responseMessage = null;
-               
-                responseMessage = await _client.PostAsJsonAsync(url, model);
+                
 
-                Console.WriteLine(responseMessage.StatusCode);
+
+                HttpResponseMessage responseMessage = null;
+                
+                 
+
+                responseMessage = await _client.PostAsJsonAsync(apiMethod, model);                 
 
                 if (responseMessage.StatusCode == HttpStatusCode.OK)
                 {
                     var responseData = responseMessage.Content.ReadAsStringAsync().Result;
                     var apiData = JsonConvert.DeserializeObject<T>(responseData);
                     return apiData;
-                    
                 }
                 else
                 {
